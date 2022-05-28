@@ -1,2 +1,3 @@
-# Ghost-OS
-my take on deeecrete
+# Grey-OS
+harming none... but can
+
